@@ -165,6 +165,22 @@ const questions =
 		new Answer("3", 0)
 	]),
 
+	new Question("3 * 2 = ", 
+	[
+		new Answer("1", 0),
+		new Answer("3", 0),
+		new Answer("6", 1),
+		new Answer("0", 0)
+	]),
+	
+	new Question("4 * 2 = ", 
+	[
+		new Answer("2", 0),
+		new Answer("4", 0),
+		new Answer("8", 1),
+		new Answer("0", 0)
+	]),
+
 	new Question("2 - 2 = ", 
 	[
 		new Answer("0", 1),
